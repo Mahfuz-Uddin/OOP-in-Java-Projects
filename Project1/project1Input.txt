@@ -1,0 +1,16 @@
+Mary had a little lamb
+whose fl33ce was white as sn0w
+And everywhere that @Mary went
+the 1amb was sure to go.
+"
+F2ew peop@le deny the dange%rs of drug use, while many teens are cur````ious about dru^^gs.
+ They should stay away @from drugs because drugs affect our health, lead to academic
+failure, and je3opardizes safety. Drugs ar2e used from a! long period of time in m4any countr3ies.
+The conce4ntration of drugs& has increased from late 1960’s and 19$70’s. ``````` 11111 ~~~~~~~ jok$ ####
+Drugs ca5n quickly takeover our lives. Friends and acquaintance ha%%ve the greatest 
+ nfluence of using drugs during adoles..cence.
+"
+Read from a file that contains a paragraph of words. 
+Put all the words in an array, put the valid words (words that have only letters) in a second array, 
+and put the invalid words in a third array. Sort the array of valid words using Selection Sort. 
+Create a GUI to display the arrays using a GridLayout with one row and three columns.
